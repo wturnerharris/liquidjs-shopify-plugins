@@ -1,0 +1,8 @@
+{
+  "general": {
+    "test": {
+      "test_item_normal": "test string here",
+      "test_item_nested": "{{ 'general.test.test_item_normal' | t | upcase }}"
+    }
+  }
+}

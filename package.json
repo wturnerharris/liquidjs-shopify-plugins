@@ -1,0 +1,25 @@
+{
+  "name": "liquidjs-shopify-plugins",
+  "version": "0.0.1",
+  "description": "Collection of plugins for liquidjs",
+  "main": "index.js",
+  "dependencies": {
+    "liquidjs": "^9.4.2",
+    "object-path": "^0.11.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wturnerharris/liquidjs-shopify-plugins.git"
+  },
+  "author": "wturnerharris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wturnerharris/liquidjs-shopify-plugins/issues"
+  },
+  "homepage": "https://github.com/wturnerharris/liquidjs-shopify-plugins#readme"
+}
